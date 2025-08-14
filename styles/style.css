@@ -1,0 +1,107 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    width: 100%;
+    display: flex;
+    background-color: #000000;
+    padding: 10px 10%;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav a{ 
+    padding: 0 12px;
+    color: #c6c6c6;
+    text-decoration: none;
+}
+.logo img{
+    width: 70%;
+}
+/* uno */
+.uno{
+    background:linear-gradient(170deg, #0c0c0c75 ), url(../assents/images/headerBg.png);
+    width: 100%;
+    padding: 130px 10%;
+}
+.init{
+    width: 95%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+}
+.tex{
+    width: 75%;
+}
+.tex img{
+    margin-bottom: 25px;
+    width: 29%;
+    font-size: 130px;
+    color: #FF8B38;
+}
+.trr{
+    color: #ffffff;
+    margin-bottom: 25px;
+    width: 10%;
+}
+.tex h2{
+    font-weight: lighter;
+    margin-bottom: 25px;
+    font-size: 49px;
+    color: #ffffff;
+    width: 72%;
+}
+.tex p{
+    margin-bottom: 40px;
+    width: 66%;
+    font-size: 24px;
+    color: #c6c6c6;
+}
+.butt{
+    color: #ffffff;
+    background-color: transparent;
+    padding: 14px 45px;
+    border: 2px solid #ffffff;
+}
+.car{
+    background-color: #ffffff;
+    width: 30%;
+    height: 73%;
+    border-radius: 7px;
+    overflow: hidden;
+}
+.car h4 {
+    background-color: #F5F5F5;
+    font-size: 27px;
+    padding: 19px;
+    text-align: center;
+
+}
+
+.car .color {
+    color: #FF8B38; 
+}
+
+.car input {
+    width: 80%;
+    padding: 16px 20px;
+    margin-bottom: 43px;
+    border: none;
+    border-bottom: 1px solid #dede;
+    font-size: 20px;
+    margin: 22px 37px;
+}
+.car button {
+    width: 100%;
+    background-color: #FF9B51;
+    color: white;
+    padding: 17px;
+    border: none;
+    font-size: 19px;
+}
+
+.car button:hover {
+    background-color: #d9531e;
+}
