@@ -68,7 +68,7 @@ header{
 .car{
     background-color: #ffffff;
     width: 30%;
-    height: 73%;
+    height: 56%;
     border-radius: 7px;
     overflow: hidden;
 }
@@ -86,7 +86,7 @@ header{
 
 .car input {
     width: 80%;
-    padding: 16px 20px;
+    padding: 25px 20px;
     margin-bottom: 43px;
     border: none;
     border-bottom: 1px solid #dede;
@@ -101,7 +101,94 @@ header{
     border: none;
     font-size: 19px;
 }
-
-.car button:hover {
-    background-color: #d9531e;
+/* dos */
+.dos{
+    background-color: #ffffff;
+    padding: 19px 8px;
+}
+.segundo{
+    gap: 95px;
+    background-color: #ffffff;
+    justify-content: space-between;
+    padding: 0 10% 0 10%;
+    display: flex;
+}
+.segundo h5{
+    font-size: 25px;
+    margin-bottom: 8px;
+}
+.segundo p{
+    font-size: 22px;
+    color: #86878B;
+}
+.te{
+    width: 39%;
+}
+.logoss{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+.logoss img{
+    width: 10%;
+    height: 71%;
+}
+/* tres */
+.tres{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F5F5F5;
+    
+}
+.uy{
+    padding: 135px 0 182px 187px;
+    width: 100%;
+    display: flex;
+    gap: 75px;
+}
+.tab{
+    margin-left: 20px;
+    width: 16%;
+    gap: 1px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.colr{
+    width: 50%;
+    height: 33%;
+    background-color: #FF8B38;
+    border: none;
+    color: #ffffff;
+}
+.gtyhd{
+    border: none;
+    width: 50%;
+    height: 33%;
+    background-color: #333333;
+    color:#ffffff;
+}
+.tep h2{
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+.tep{
+    width: 34%;
+}
+.tep p{
+    font-size: 18px;
+    margin-bottom: 35px;
+    line-height: 1.5;
+}
+.hgjk{
+    width: 26%;
+    background-color: #FF9B51;
+    color: white;
+    padding: 17px;
+    border: none;
+    font-size: 19px;
+    border-radius: 3px;
+}
+.imghj{
+    margin-left: 8%;
+    margin-top: 19px;
 }
