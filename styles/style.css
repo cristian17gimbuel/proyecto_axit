@@ -13,7 +13,7 @@ header{
     justify-content: space-between;
 }
 .nav a{ 
-    padding: 0 12px;
+    padding: 0 23px;
     color: #c6c6c6;
     text-decoration: none;
 }
@@ -28,7 +28,6 @@ header{
 }
 .init{
     width: 95%;
-    height: 90vh;
     display: flex;
     align-items: center;
 }
@@ -49,14 +48,14 @@ header{
 .tex h2{
     font-weight: lighter;
     margin-bottom: 25px;
-    font-size: 49px;
+    font-size: 32px;
     color: #ffffff;
-    width: 72%;
+    width: 81%;
 }
 .tex p{
     margin-bottom: 40px;
-    width: 66%;
-    font-size: 24px;
+    width: 85%;
+    font-size: 18px;
     color: #c6c6c6;
 }
 .butt{
@@ -67,14 +66,13 @@ header{
 }
 .car{
     background-color: #ffffff;
-    width: 30%;
-    height: 56%;
+    width: 46%;
     border-radius: 7px;
     overflow: hidden;
 }
 .car h4 {
     background-color: #F5F5F5;
-    font-size: 27px;
+    font-size: 23px;
     padding: 19px;
     text-align: center;
 
@@ -86,7 +84,7 @@ header{
 
 .car input {
     width: 80%;
-    padding: 25px 20px;
+    padding: 10px 20px;
     margin-bottom: 43px;
     border: none;
     border-bottom: 1px solid #dede;
@@ -110,7 +108,7 @@ header{
     gap: 95px;
     background-color: #ffffff;
     justify-content: space-between;
-    padding: 0 10% 0 10%;
+    padding: 0 7%;
     display: flex;
 }
 .segundo h5{
@@ -118,20 +116,21 @@ header{
     margin-bottom: 8px;
 }
 .segundo p{
-    font-size: 22px;
+    font-size: 14px;
     color: #86878B;
+    width: 100%;
 }
 .te{
-    width: 39%;
+    width: 47%;
 }
 .logoss{
-    width: 60%;
+    width: 81%;
     display: flex;
     justify-content: space-between;
 }
 .logoss img{
-    width: 10%;
-    height: 71%;
+    width: 12%;
+    height: 80%;
 }
 /* tres */
 .tres{
@@ -141,46 +140,45 @@ header{
     
 }
 .uy{
-    padding: 135px 0 182px 187px;
+    padding: 10% 8% 10%;
     width: 100%;
     display: flex;
-    gap: 75px;
+    justify-content: space-between;
 }
 .tab{
-    margin-left: 20px;
-    width: 16%;
+    width: 10%;
     gap: 1px;
     display: flex;
     flex-wrap: wrap;
 }
 .colr{
-    width: 50%;
-    height: 33%;
+    width: 100%;
+    height: 120px;
     background-color: #FF8B38;
     border: none;
     color: #ffffff;
 }
 .gtyhd{
     border: none;
-    width: 50%;
-    height: 33%;
+    width: 100%;
+    height: 120px;
     background-color: #333333;
     color:#ffffff;
 }
 .tep h2{
-    font-size: 30px;
-    margin-bottom: 40px;
+    font-size: 22px;
+    margin-bottom: 30px;
 }
 .tep{
-    width: 34%;
+    width: 45%;
 }
 .tep p{
-    font-size: 18px;
-    margin-bottom: 35px;
-    line-height: 1.5;
+    color: #97979b;
+    font-size: 16px;
+    margin-bottom: 30px;
 }
 .hgjk{
-    width: 26%;
+    width: 32%;
     background-color: #FF9B51;
     color: white;
     padding: 17px;
@@ -189,6 +187,249 @@ header{
     border-radius: 3px;
 }
 .imghj{
-    margin-left: 8%;
+    width: 30%;
     margin-top: 19px;
+}
+.imghj img{
+    width: 100%;
+}
+/* cuarto */
+.inver{
+    display: flex;
+    padding: 10% 7%;
+    justify-content: space-between;
+}
+.oplk{
+    width: 50%;
+}
+
+
+.yire{
+    width: 45%;
+    padding: 0 10px;
+}
+.yire h3{
+    width: 50%;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.ertw{
+    color: #97979b;
+    font-size: 16px;
+    padding: 30px 0;
+}
+.color{
+    width: 13%;
+    border: 1.6px solid #FF8B38;
+}
+.gdhd{
+    padding: 23px 0;
+    justify-content: space-between;
+    display: flex;
+}
+.iuy{
+    width: 10%;
+}
+.iuy img{
+    width: 100%;
+}
+.titl{
+    width: 80%;
+}
+.titl p{
+    color: #97979b;
+}
+.titl h6{
+    font-size: 18px;    
+}
+/* quinto */
+.riohjd{
+    background-color: #F5F5F5;
+    display: flex;
+    padding: 10% 7%;
+    justify-content: space-between;
+}
+.mnjh{
+    width: 50%;
+}
+.mnjh h3{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.mnjh p{
+    font-size: 17px;
+    margin-top: 40px;
+}
+.opl img{
+    width: 100%;
+}
+.opl{
+    width: 42%;
+}
+/* seis */
+.divid{
+    justify-items: center;
+    padding: 30px 0 ;
+}
+.divid h2{
+    font-family: auto;
+    font-weight: 100;
+    font-size: 35px;
+    margin-bottom: 25px;
+}
+.divid p{
+    font-size: 13px;
+    margin-top: 28px;
+}
+.cartsd{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    padding: 4% 5% 7% 4%;
+}
+.tho{
+    width: 100%;
+}
+.tho p{
+    font-size: 14px;
+    width: 92%;
+}
+.tho h3{
+    font-size: 20px;
+    padding: 23px 0 19px;
+}
+/* siete */
+
+
+
+
+
+
+
+/* ocho */
+.ocho {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.ocho h2 {
+  font-size: 28px;
+  font-weight: 200;
+  font-family: auto;
+  margin-bottom: 10px;
+}
+
+/* Soporta .color y .clor por si usas cualquiera de las dos */
+.ocho .color,
+.ocho .clor {
+  width: 7%;
+  border: 1.6px solid #FF8B38;
+  margin: 10px auto;
+}
+
+.ocho p {
+  color: #97979b;
+  margin-bottom: 40px;
+}
+
+/* fila de testimonios */
+.fjehfwd {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  flex-wrap: wrap; /* por si se reduce el ancho */
+}
+
+/* columna individual */
+.un {
+  width: 23%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.un .p {
+  width: 100%;
+  background-image: url("../assents/images/textBubble.png");
+  background-repeat: no-repeat;
+  padding: 8% 7% 10% 7%;  
+  font-size: 14px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+/* perfil */
+.perfil {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.perfil img {
+  width: 27%;
+  height: 92%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.perfil p {
+  margin: 0;
+  font-size: 12px;
+  color: #97979b;
+}
+
+.perfil p strong {
+  color: black;
+  font-size: 18px;
+}
+/* nueve */
+.nueve{
+    background:linear-gradient(90deg, #0c0c0c75), url(../assents/images/bg2.png);
+    width: 100%;
+    height: 77vh;
+    color: #ffffff;
+}
+.fkfjo{
+    padding: 50px;
+    justify-items: center;
+}
+.fkfjo h2{
+
+    font-size: 30px;
+}
+.fkfjo p{
+    color: #8A8F8E;
+    margin-bottom: 38px;
+}
+.colorr{
+    width: 7%;
+    border: 1.6px solid #ffffff;
+    margin: 26px 0;
+}
+.kilj {
+  display: flex;
+  justify-content: center; 
+}
+.buttt{
+    color: #ffffff;
+    background-color: transparent;
+    padding: 14px 45px;
+    border: 2px solid #ffffff;
+}
+
+
+
+
+
+
+/*once*/
+.idyd{
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+    align-items: center;
+    background-color: black;
+    color: #5E5E5E;
+    padding: 22px;
+}
+.idyd img{
+    padding: 15px;
 }
