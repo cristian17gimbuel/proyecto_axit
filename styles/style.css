@@ -555,7 +555,6 @@ form input, form textarea {
         width: 47%;
         height: 92vh;
     }
-    /* logos redes 3 */
     .segundo p{
         font-size: 11px;
     }
@@ -570,7 +569,6 @@ form input, form textarea {
     .dos{
         padding: 12px 8px;
     }
-    /* TAB E IMAGEN 4 */
     .tep{
         width: 58%;
     }
@@ -601,7 +599,6 @@ form input, form textarea {
     .imghj img{
         margin-top: 40px;
     }
-    /* Parte img 5 */
     .oplk img{
         width: 90%;
         margin-top: 20px;
@@ -620,7 +617,6 @@ form input, form textarea {
     .gdhd{
         padding: 19px 0;
     }
-    /* parte img 6 */
     .mnjh{
         width: 46%;
     }
@@ -631,7 +627,6 @@ form input, form textarea {
         font-size: 12px;
         margin-top: 27px;
     }
-    /* parte  cartas de iconos7 */
     .cartsd{
         gap: 0;
         padding: 4% 5% 7% 7%;
@@ -640,7 +635,6 @@ form input, form textarea {
         font-size: 11px;
         width: 96%;
     }
-    /* parte contacts */
     .opil{
         width: 17%;
     }
@@ -666,14 +660,12 @@ form input, form textarea {
         height: 84vh;
         margin-top: 18px;
     }
-    /* parte de iconos 3 */
     .segundo h5{
         font-size: 20px;
     }
     .segundo p{
         font-size: 9px;
     }
-    /* parte 4 tab */
     .tab{
         width: 14%;
     }
@@ -702,7 +694,6 @@ form input, form textarea {
     .imghj img{
         margin-top: 36px;
     }
-    /* parte 5 img */
     .yire h3{
         font-size: 18px;
     }
@@ -718,14 +709,12 @@ form input, form textarea {
     .gdhd{
         padding: 20px 0;
     }
-    /* parte 6  */
     .mnjh p{
         font-size: 10px;
     }
     .mnjh h3{
         font-size: 16px;
     }
-    /* parte6 */
     .tho p{
         font-size: 9px;
         width: 98%;
@@ -733,22 +722,18 @@ form input, form textarea {
     .cartsd{
         gap: 20px;
     }
-    /* parte de las cartas de ventas */
     .card1{
         width: 35%;
     }
     .card2{
         width: 33%;
     }
-    /* parte de perfiles */
     .un .p{
         font-size: 13px;
     }
-    /* parte de stylish */
     .fkfjo p{
         font-size: 11px;
     }
-    /* parte de formulario */
     .opil{
         width: 23%;
         margin-left: 38%;
@@ -770,7 +755,6 @@ form input, form textarea {
         margin-left: 11px;
         font-size: 11px;
     }
-    /*  */
     .uno{
         padding: 11% 7%;
     }
@@ -807,7 +791,6 @@ form input, form textarea {
         width: 100%;
         text-align: center;
     }
-    /*  */
     .te{
         width: 61%;
     }
@@ -823,7 +806,6 @@ form input, form textarea {
     .segundo h5{
         font-size: 13px;
     }
-    /*  */
     .uy{
         display: flex;
         justify-content: center;
@@ -852,7 +834,6 @@ form input, form textarea {
     .imghj{
         width: 56%;
     }
-    /*  */
     .yire{
         width: 100%;
         padding: 8% 12%;
@@ -867,7 +848,6 @@ form input, form textarea {
     .oplk{
         width: 64%;
     }
-    /*  */
     .opl{
         justify-items: center;
         width: 100%;
@@ -886,7 +866,6 @@ form input, form textarea {
         width: 100%;
         margin-bottom: 34px;
     }
-    /*  */
     .cartsd{
         gap: 33px;
         flex-wrap: wrap;
@@ -901,8 +880,6 @@ form input, form textarea {
     .tho p{
         font-size: 13px;
     }
-    /*  */
-    
     .cards{
         flex-wrap: wrap;
     }
@@ -914,7 +891,6 @@ form input, form textarea {
         width: 70%;
         margin-top: 30px;
     }
-    /*  */
     .ocho h2{
         font-size: 20px;
     }
@@ -928,14 +904,12 @@ form input, form textarea {
     .un{
         width: 71%;
     }
-    /*  */
     .fkfjo h2{
         font-size: 22px;
     }
     .fkfjo p{
         font-size: 8px;
     }
-    /*  */
     .ñploñ p{
         font-size: 15px;
     }
@@ -943,7 +917,6 @@ form input, form textarea {
         width: 27%;
         font-size: 10px;
     }
-    /* footer */
     .idyd{
         padding: 5px;
     }
@@ -963,7 +936,6 @@ form input, form textarea {
         margin-left: 3px;
         font-size: 9px
     }
-    /*  */
     .tex img{
         width: 42%;
     }
@@ -990,7 +962,6 @@ form input, form textarea {
     .car button{
         padding: 11px;
     }
-    /*  */
     .tab{
         width: 17%;
     }
@@ -1011,7 +982,6 @@ form input, form textarea {
     .hgjk{
         font-size: 8px;
     }
-    /*  */
     .yire h3{
         font-size: 15px;
     }
@@ -1025,9 +995,8 @@ form input, form textarea {
 @media (max-width: 480px){
     .car{
         width: 75%;
-        height: 76vh;
+        height: 57vh;
     }
-    /*  */
     .tho p{
         font-size: 10px;
     }
@@ -1044,14 +1013,12 @@ form input, form textarea {
         font-size: 11px;
         margin-bottom: 0;
     }
-    /*  */
     .ocho h2{
         font-size: 17px;
     }
     .ocho p{
         font-size: 11px;
     }
-    /*  */
     .fkfjo h2{
         font-size: 20px;
     }
@@ -1065,7 +1032,6 @@ form input, form textarea {
     .buttt{
         padding: 9px 23px;
     }
-    /*  */
     .ñploñ h2{
         font-size: 25px;
     }
