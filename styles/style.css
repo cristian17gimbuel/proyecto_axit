@@ -1025,7 +1025,7 @@ form input, form textarea {
 @media (max-width: 480px){
     .car{
         width: 75%;
-        height: 76%;
+        height: 76vh;
     }
     /*  */
     .tho p{
