@@ -1,10 +1,11 @@
-*{
+* {
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
-header{
+
+header {
     width: 100%;
     display: flex;
     background-color: #000000;
@@ -12,64 +13,76 @@ header{
     align-items: center;
     justify-content: space-between;
 }
-.nav a{ 
+
+.nav a {
     padding: 0 23px;
     color: #c6c6c6;
     text-decoration: none;
 }
-.logo img{
+
+.logo img {
     width: 70%;
 }
+
 /* uno */
-.uno{
-    background:linear-gradient(170deg, #0c0c0c75 ), url(../assents/images/headerBg.png);
+.uno {
+    background: linear-gradient(170deg, #0c0c0c75), url(../assents/images/headerBg.png);
     width: 100%;
     padding: 130px 10%;
 }
-.init{
+
+.init {
     width: 95%;
     display: flex;
     align-items: center;
 }
-.tex{
+
+.tex {
     width: 75%;
 }
-.tex img{
+
+.tex img {
     margin-bottom: 25px;
     width: 29%;
     font-size: 130px;
     color: #FF8B38;
 }
-.trr{
+
+.trr {
     color: #ffffff;
     margin-bottom: 25px;
     width: 10%;
 }
-.tex h2{
+
+.tex h2 {
     font-weight: lighter;
     margin-bottom: 25px;
     font-size: 32px;
     color: #ffffff;
     width: 81%;
 }
-.tex p{
+
+.tex p {
     margin-bottom: 40px;
     width: 85%;
     font-size: 18px;
     color: #c6c6c6;
 }
-.butt{
+
+.butt {
     color: #ffffff;
     background-color: transparent;
     padding: 14px 45px;
     border: 2px solid #ffffff;
 }
-.car{
+
+.car {
     background-color: #ffffff;
     width: 46%;
     border-radius: 7px;
     overflow: hidden;
 }
+
 .car h4 {
     background-color: #F5F5F5;
     font-size: 23px;
@@ -79,7 +92,7 @@ header{
 }
 
 .car .color {
-    color: #FF8B38; 
+    color: #FF8B38;
     border: none;
 }
 
@@ -92,6 +105,7 @@ header{
     font-size: 20px;
     margin: 22px 37px;
 }
+
 .car button {
     width: 100%;
     background-color: #FF9B51;
@@ -100,85 +114,101 @@ header{
     border: none;
     font-size: 19px;
 }
+
 /* dos */
-.dos{
+.dos {
     background-color: #ffffff;
     padding: 19px 8px;
 }
-.segundo{
+
+.segundo {
     gap: 95px;
     background-color: #ffffff;
     justify-content: space-between;
     padding: 0 7%;
     display: flex;
 }
-.segundo h5{
+
+.segundo h5 {
     font-size: 25px;
     margin-bottom: 8px;
 }
-.segundo p{
+
+.segundo p {
     font-size: 14px;
     color: #86878B;
     width: 100%;
 }
-.te{
+
+.te {
     width: 47%;
 }
-.logoss{
+
+.logoss {
     width: 81%;
     display: flex;
     justify-content: space-between;
 }
-.logoss img{
+
+.logoss img {
     width: 12%;
     height: 80%;
 }
+
 /* tres */
-.tres{
+.tres {
     display: flex;
     justify-content: space-between;
     background-color: #F5F5F5;
-    
+
 }
-.uy{
+
+.uy {
     padding: 10% 8% 10%;
     width: 100%;
     display: flex;
     justify-content: space-between;
 }
-.tab{
+
+.tab {
     width: 10%;
     gap: 1px;
     display: flex;
     flex-wrap: wrap;
 }
-.colr{
+
+.colr {
     width: 100%;
     height: 120px;
     background-color: #FF8B38;
     border: none;
     color: #ffffff;
 }
-.gtyhd{
+
+.gtyhd {
     border: none;
     width: 100%;
     height: 120px;
     background-color: #333333;
-    color:#ffffff;
+    color: #ffffff;
 }
-.tep h2{
+
+.tep h2 {
     font-size: 22px;
     margin-bottom: 30px;
 }
-.tep{
+
+.tep {
     width: 45%;
 }
-.tep p{
+
+.tep p {
     color: #97979b;
     font-size: 16px;
     margin-bottom: 30px;
 }
-.hgjk{
+
+.hgjk {
     width: 32%;
     background-color: #FF9B51;
     color: white;
@@ -187,143 +217,177 @@ header{
     font-size: 19px;
     border-radius: 3px;
 }
-.imghj{
+
+.imghj {
     width: 30%;
     margin-top: 19px;
 }
-.imghj img{
+
+.imghj img {
     width: 100%;
 }
+
 /* cuarto */
-.inver{
+.inver {
     display: flex;
     padding: 10% 7%;
     justify-content: space-between;
 }
-.oplk{
+
+.oplk {
     width: 50%;
 }
 
 
-.yire{
+.yire {
     width: 45%;
     padding: 0 10px;
 }
-.yire h3{
+
+.yire h3 {
     width: 50%;
     font-size: 24px;
     margin-bottom: 20px;
 }
-.ertw{
+
+.ertw {
     color: #97979b;
     font-size: 16px;
     padding: 30px 0;
 }
-.color{
+
+.color {
     width: 13%;
     border: 1.6px solid #FF8B38;
 }
-.gdhd{
+
+.gdhd {
     padding: 23px 0;
     justify-content: space-between;
     display: flex;
 }
-.iuy{
+
+.iuy {
     width: 10%;
 }
-.iuy img{
+
+.iuy img {
     width: 100%;
 }
-.titl{
+
+.titl {
     width: 80%;
 }
-.titl p{
+
+.titl p {
     color: #97979b;
 }
-.titl h6{
-    font-size: 18px;    
+
+.titl h6 {
+    font-size: 18px;
 }
+
 /* quinto */
-.riohjd{
+.riohjd {
     background-color: #F5F5F5;
     display: flex;
     padding: 10% 7%;
     justify-content: space-between;
 }
-.mnjh{
+
+.mnjh {
     width: 50%;
 }
-.mnjh h3{
+
+.mnjh h3 {
     font-size: 30px;
     margin-bottom: 20px;
 }
-.mnjh p{
+
+.mnjh p {
     font-size: 17px;
     margin-top: 40px;
 }
-.opl img{
+
+.opl img {
     width: 100%;
 }
-.opl{
+
+.opl {
     width: 42%;
 }
+
 /* seis */
-.divid{
+.divid {
     justify-items: center;
-    padding: 30px 0 ;
+    padding: 30px 0;
 }
-.divid h2{
+
+.divid h2 {
     font-family: auto;
     font-weight: 100;
     font-size: 35px;
     margin-bottom: 25px;
 }
-.divid p{
+
+.divid p {
     font-size: 13px;
     margin-top: 28px;
 }
-.cartsd{
+
+.cartsd {
     display: flex;
     gap: 20px;
     text-align: center;
     padding: 4% 5% 7% 6%;
 }
-.tho{
+
+.tho {
     width: 100%;
 }
-.tho p{
+
+.tho p {
     font-size: 14px;
     width: 92%;
 }
-.tho h3{
+
+.tho h3 {
     font-size: 20px;
     padding: 23px 0 19px;
 }
+
 /* siete */
 .pricing {
     padding: 90px 20px;
     text-align: center;
     background: #f5f5f5;
 }
+
 .pricing h2 {
     font-size: 28px;
     margin-bottom: 10px;
 }
+
 .pricing p {
     color: #86878b;
     margin-bottom: 80px;
 }
+
 .cards {
     display: flex;
     justify-content: center;
     gap: 20px;
 }
-.card1,.card2 {
+
+.card1,
+.card2 {
     background: #ffffff;
     width: 25%;
     overflow: hidden;
 }
-.card1 h3 , .card2 h3{
+
+.card1 h3,
+.card2 h3 {
     background: #333333;
     color: #ffffff;
     padding: 15px;
@@ -331,47 +395,56 @@ header{
     font-family: 'Poppins', sans-serif;
 }
 
-.card1 h1{
+.card1 h1 {
     font-size: 50px;
     padding: 26px;
     color: #ffffff;
     background-color: #333333;
 }
-.card2 h4{
+
+.card2 h4 {
     font-size: 75px;
     padding: 26px;
     color: #ffffff;
     background-color: #333333;
 }
-.card1 p , .card2 p {
+
+.card1 p,
+.card2 p {
     margin: 0;
     color: #ADADAD;
     background-color: #333333;
     padding: 0 0 10px;
 }
+
 hr {
     border: none;
     border-top: 3px solid #f7941d;
     margin: 0;
 }
-.hhjjdhs{
+
+.hhjjdhs {
     margin-bottom: 16px;
 }
-.card1{
+
+.card1 {
     margin-top: 65px;
 }
+
 .pricing .card1 ul li {
     padding: 12px;
     border-top: 1px solid #dede;
     font-size: 14px;
     color: #86878b;
 }
-.card2 ul li{
+
+.card2 ul li {
     padding: 12px;
     border-top: 1px solid #dede;
     font-size: 14px;
     color: #86878b;
 }
+
 .popular .highlight {
     background: #FF8B38;
     color: #fff;
@@ -384,90 +457,108 @@ hr {
     padding: 60px 20px;
     text-align: center;
 }
+
 .ocho h2 {
     font-size: 28px;
     font-weight: 200;
     font-family: auto;
     margin-bottom: 10px;
 }
+
 .clor {
     width: 7%;
     border: 1.6px solid #FF8B38;
     margin: 16px auto;
 }
+
 .ocho p {
     color: #97979b;
     margin-bottom: 40px;
 }
+
 .fjehfwd {
     display: flex;
     justify-content: center;
     gap: 80px;
 }
+
 .un {
     width: 23%;
     display: flex;
     flex-direction: column;
 }
+
 .un .p {
     width: 100%;
     background-image: url("../assents/images/textBubble.png");
-    padding: 8% 7% 10% 7%;  
+    padding: 8% 7% 10% 7%;
     font-size: 14px;
     margin-bottom: 20px;
     text-align: left;
-}   
+}
+
 .perfil {
     display: flex;
     align-items: center;
     gap: 10px;
 }
+
 .perfil img {
     width: 27%;
     height: 92%;
     border-radius: 50%;
 }
+
 .perfil p {
     margin: 0;
     font-size: 12px;
     color: #97979b;
 }
+
 .perfil p strong {
     color: black;
     font-size: 18px;
 }
+
 /* nueve */
-.nueve{
+.nueve {
     width: 100%;
     color: #ffffff;
 }
-.fkfjo{
-    background:linear-gradient(90deg, #0c0c0c75), url(../assents/images/bg2.png) no-repeat;
+
+.fkfjo {
+    background: linear-gradient(90deg, #0c0c0c75), url(../assents/images/bg2.png) no-repeat;
     padding: 50px;
     justify-items: center;
 }
-.fkfjo h2{
+
+.fkfjo h2 {
     font-size: 30px;
 }
-.fkfjo p{
+
+.fkfjo p {
     color: #8A8F8E;
     margin-bottom: 38px;
 }
-.colorr{
+
+.colorr {
     width: 7%;
     border: 1.6px solid #ffffff;
     margin: 26px 0;
 }
+
 .kilj {
     display: flex;
-    justify-content: center; 
+    justify-content: center;
 }
-.buttt{
+
+.buttt {
     color: #ffffff;
     background-color: transparent;
     padding: 14px 45px;
     border: 2px solid #ffffff;
 }
+
 /* diez */
 .diez {
     width: 88%;
@@ -475,20 +566,25 @@ hr {
     padding: 60px 20px;
     text-align: center;
 }
+
 .ñploñ h2 {
     font-size: 28px;
     font-weight: 100;
 }
+
 .ñploñ p {
     color: #97979b;
     margin-bottom: 40px;
 }
+
 form {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
-form input, form textarea {
+
+form input,
+form textarea {
     width: 100%;
     padding: 10px 0;
     border: none;
@@ -496,12 +592,15 @@ form input, form textarea {
     margin-bottom: 20px;
     font-size: 14px;
 }
-.left{
+
+.left {
     width: 48%;
 }
+
 .right {
     width: 48%;
 }
+
 .opil {
     width: 13%;
     background-color: #FF9B51;
@@ -512,532 +611,681 @@ form input, form textarea {
     border-radius: 3px;
     margin-left: 43%;
 }
+
 /*footer*/
-.idyd{
+.idyd {
     display: flex;
     justify-content: center;
-    flex-direction: column; 
+    flex-direction: column;
     align-items: center;
     background-color: black;
     color: #5E5E5E;
     padding: 14px;
 }
-.idyd img{
+
+.idyd img {
     padding: 15px;
 }
+
 /* INICIO DE RESPOSIVE */
 @media (max-width: 1279px) {
-    .nav a{
+    .nav a {
         padding: 0 13px;
     }
-    header{
+
+    header {
         padding: 10px 7%;
     }
-    .uno{
+
+    .uno {
         padding: 130px 7%;
     }
-    .tex h2{
+
+    .tex h2 {
         font-size: 25px;
     }
-    .tex p{
+
+    .tex p {
         font-size: 16px;
     }
-    .car h4{
+
+    .car h4 {
         font-size: 20px;
     }
-    .car input{
+
+    .car input {
         margin: 22px 27px;
     }
+
     .car input {
         margin: 12px 27px;
     }
+
     .car {
         width: 47%;
         height: 92vh;
     }
-    .segundo p{
+
+    .segundo p {
         font-size: 11px;
     }
-    .logoss{
+
+    .logoss {
         width: 82%;
         margin-right: 33px;
     }
-    .segundo{
+
+    .segundo {
         gap: 45px;
         padding: 0 7%;
     }
-    .dos{
+
+    .dos {
         padding: 12px 8px;
     }
-    .tep{
+
+    .tep {
         width: 58%;
     }
-    .colr{
+
+    .colr {
         height: 34%;
     }
-    .gtyhd{
+
+    .gtyhd {
         height: 34%;
     }
-    .tab{
+
+    .tab {
         width: 15%;
     }
-    .uy{
-        gap: 71px ;
+
+    .uy {
+        gap: 71px;
     }
-    .tep h2{
+
+    .tep h2 {
         font-size: 21px;
         margin-bottom: 44px;
     }
-    .tep p{
+
+    .tep p {
         height: 86px;
         font-size: 14px;
         margin-bottom: 17px;
     }
-    .imghj{
+
+    .imghj {
         width: 34%;
     }
-    .imghj img{
+
+    .imghj img {
         margin-top: 40px;
     }
-    .oplk img{
+
+    .oplk img {
         width: 90%;
         margin-top: 20px;
     }
-    .yire h3{
+
+    .yire h3 {
         font-size: 21px;
         margin-bottom: 14px;
     }
-    .ertw{
+
+    .ertw {
         font-size: 14px;
         padding: 20px 0 0;
     }
-    .titl p{
+
+    .titl p {
         font-size: 11px;
     }
-    .gdhd{
+
+    .gdhd {
         padding: 19px 0;
     }
-    .mnjh{
+
+    .mnjh {
         width: 46%;
     }
-    .mnjh h3{
+
+    .mnjh h3 {
         font-size: 20px;
     }
-    .mnjh p{
+
+    .mnjh p {
         font-size: 12px;
         margin-top: 27px;
     }
-    .cartsd{
+
+    .cartsd {
         gap: 0;
         padding: 4% 5% 7% 7%;
     }
-    .tho p{
+
+    .tho p {
         font-size: 11px;
         width: 96%;
     }
-    .opil{
+
+    .opil {
         width: 17%;
     }
 }
-@media (max-width: 920px){
-    .nav a{
+
+@media (max-width: 920px) {
+    .nav a {
         padding: 0 6px;
     }
-    .tex h2{
+
+    .tex h2 {
         font-size: 19px;
     }
-    .tex p{
+
+    .tex p {
         font-size: 13px;
     }
-    .car h4{
+
+    .car h4 {
         font-size: 16px;
     }
-    .car input{
+
+    .car input {
         margin: 8px 27px;
     }
-    .car{
+
+    .car {
         width: 53%;
         height: 84vh;
         margin-top: 18px;
     }
-    .segundo h5{
+
+    .segundo h5 {
         font-size: 20px;
     }
-    .segundo p{
+
+    .segundo p {
         font-size: 9px;
     }
-    .tab{
+
+    .tab {
         width: 14%;
     }
-    .uy{
+
+    .uy {
         gap: 32px;
     }
-    .tep h2{
+
+    .tep h2 {
         font-size: 19px;
         margin-bottom: 40px;
     }
-    .colr{
+
+    .colr {
         height: 93px;
     }
-    .gtyhd{
+
+    .gtyhd {
         height: 93px;
     }
-    .tep p{
+
+    .tep p {
         height: 24%;
         font-size: 12px;
         margin-bottom: 13px;
     }
-    .hgjk{
+
+    .hgjk {
         padding: 13px;
         width: 43%;
     }
-    .imghj img{
+
+    .imghj img {
         margin-top: 36px;
     }
-    .yire h3{
+
+    .yire h3 {
         font-size: 18px;
     }
-    .yire{
+
+    .yire {
         padding: 0 6px;
     }
-    .ertw{
+
+    .ertw {
         font-size: 11px;
     }
-    .titl p{
+
+    .titl p {
         font-size: 9px;
     }
-    .gdhd{
+
+    .gdhd {
         padding: 20px 0;
     }
-    .mnjh p{
+
+    .mnjh p {
         font-size: 10px;
     }
-    .mnjh h3{
+
+    .mnjh h3 {
         font-size: 16px;
     }
-    .tho p{
+
+    .tho p {
         font-size: 9px;
         width: 98%;
     }
-    .cartsd{
+
+    .cartsd {
         gap: 20px;
     }
-    .card1{
+
+    .card1 {
         width: 35%;
     }
-    .card2{
+
+    .card2 {
         width: 33%;
     }
-    .un .p{
+
+    .un .p {
         font-size: 13px;
     }
-    .fkfjo p{
+
+    .fkfjo p {
         font-size: 11px;
     }
-    .opil{
+
+    .opil {
         width: 23%;
         margin-left: 38%;
     }
 
 }
-@media (max-width: 768px){
-    .logo{
+
+@media (max-width: 768px) {
+    .logo {
         width: 33%;
     }
-    .logo img{
+
+    .logo img {
         width: 50%;
     }
-    .nav{
+
+    .nav {
         width: 65%;
     }
-    .nav a{
+
+    .nav a {
         padding: 0 1px;
         margin-left: 11px;
         font-size: 11px;
     }
-    .uno{
+
+    .uno {
         padding: 11% 7%;
     }
-    .tex h2{
+
+    .tex h2 {
         font-size: 16px;
         margin-left: 31px;
     }
-    .trr{
+
+    .trr {
         width: 17%;
         margin: 0 0 7% 41%;
     }
-    .tex p{
+
+    .tex p {
         font-size: 14px;
         margin: 0 0 23px 31px;
     }
-    .butt{
+
+    .butt {
         padding: 10px 16px;
         margin-bottom: 30px;
     }
-    .car{
+
+    .car {
         width: 64%;
         height: 95vh;
     }
-    .car input{
+
+    .car input {
         margin: 14px 23px;
     }
-    .car h4{
+
+    .car h4 {
         font-size: 18px;
     }
-    .init{
+
+    .init {
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
         width: 100%;
         text-align: center;
     }
-    .te{
+
+    .te {
         width: 61%;
     }
-    .segundo p{
+
+    .segundo p {
         font-size: 7px;
     }
-    .segundo{
+
+    .segundo {
         gap: 30px;
     }
-    .logoss{
+
+    .logoss {
         margin-right: 0;
     }
-    .segundo h5{
+
+    .segundo h5 {
         font-size: 13px;
     }
-    .uy{
+
+    .uy {
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
     }
-    .tep h2{
+
+    .tep h2 {
         font-size: 13px;
         margin-bottom: 27px;
     }
-    .tep p{
+
+    .tep p {
         height: auto;
         font-size: 11px;
         width: 105%;
     }
-    .hgjk{
+
+    .hgjk {
         width: 39%;
         font-size: 13px;
         padding: 11px 17px;
     }
-    .colr{
+
+    .colr {
         height: 77px;
     }
-    .gtyhd{
+
+    .gtyhd {
         height: 77px;
     }
-    .imghj{
+
+    .imghj {
         width: 56%;
     }
-    .yire{
+
+    .yire {
         width: 100%;
         padding: 8% 12%;
     }
-    .inver{
+
+    .inver {
         display: flex;
         flex-wrap: wrap;
     }
-    .oplk img{
+
+    .oplk img {
         margin-left: 36%;
     }
-    .oplk{
+
+    .oplk {
         width: 64%;
     }
-    .opl{
+
+    .opl {
         justify-items: center;
         width: 100%;
     }
-    .opl img{
+
+    .opl img {
         width: 71%;
         margin-left: 17%;
     }
-    .riohjd{
+
+    .riohjd {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
         padding: 8% 16%;
     }
+
     .mnjh {
         width: 100%;
         margin-bottom: 34px;
     }
-    .cartsd{
+
+    .cartsd {
         gap: 33px;
         flex-wrap: wrap;
         padding: 7% 15%;
     }
-    .divid h2{
+
+    .divid h2 {
         font-size: 27px;
     }
-    .divid p{
+
+    .divid p {
         font-size: 11px;
     }
-    .tho p{
+
+    .tho p {
         font-size: 13px;
     }
-    .cards{
+
+    .cards {
         flex-wrap: wrap;
     }
-    .card1{
+
+    .card1 {
         width: 70%;
         margin-top: 30px;
     }
-    .card2{
+
+    .card2 {
         width: 70%;
         margin-top: 30px;
     }
-    .ocho h2{
+
+    .ocho h2 {
         font-size: 20px;
     }
-    .ocho p{
+
+    .ocho p {
         font-size: 13px;
     }
-    .fjehfwd{
+
+    .fjehfwd {
         gap: 35px;
         flex-wrap: wrap;
     }
-    .un{
+
+    .un {
         width: 71%;
     }
-    .fkfjo h2{
+
+    .fkfjo h2 {
         font-size: 22px;
     }
-    .fkfjo p{
+
+    .fkfjo p {
         font-size: 8px;
     }
-    .ñploñ p{
+
+    .ñploñ p {
         font-size: 15px;
     }
-    .opil{
+
+    .opil {
         width: 27%;
         font-size: 10px;
     }
-    .idyd{
+
+    .idyd {
         padding: 5px;
     }
-    .idyd img{
+
+    .idyd img {
         width: 58%;
     }
-    .idyd p{
+
+    .idyd p {
         font-size: 13px;
     }
 
 }
-@media (max-width: 480px){
-    .logo img{
+
+@media (max-width: 480px) {
+    .logo img {
         width: 40%;
     }
-    .nav a{
+
+    .nav a {
         margin-left: 3px;
         font-size: 9px
     }
-    .tex img{
+
+    .tex img {
         width: 42%;
     }
-    .tex h2{
+
+    .tex h2 {
         font-size: 12px;
         margin-left: 22px;
     }
-    .tex p{
+
+    .tex p {
         font-size: 10px;
         margin: 0 0 23px 18px;
     }
-    .car{
+
+    .car {
         width: 75%;
         height: 45vh;
         margin-top: 0;
     }
-    .car h4{
+
+    .car h4 {
         font-size: 15px;
-        padding: 16px 0 13px  0;
+        padding: 16px 0 13px 0;
     }
-    .car input{
+
+    .car input {
         padding: 3px 13px;
     }
-    .car button{
+
+    .car button {
         padding: 11px;
     }
-    .tab{
+
+    .tab {
         width: 17%;
     }
-    .tep h2{
+
+    .tep h2 {
         font-size: 8px;
     }
-    .tep p{
+
+    .tep p {
         width: 98%;
         font-size: 8px;
     }
-    .colr{
+
+    .colr {
         height: 63px;
 
     }
-    .gtyhd{
+
+    .gtyhd {
         height: 63px;
     }
-    .hgjk{
+
+    .hgjk {
         font-size: 8px;
     }
-    .yire h3{
+
+    .yire h3 {
         font-size: 15px;
     }
-    .ertw{
+
+    .ertw {
         font-size: 9px;
     }
-    .titl p{
+
+    .titl p {
         font-size: 8px;
     }
 }
-@media (max-width: 480px){
-    .car{
+
+@media (max-width: 480px) {
+    .car {
         width: 75%;
         height: 57vh;
     }
-    .tho p{
+
+    .tho p {
         font-size: 10px;
     }
-    .colr{
+
+    .colr {
         font-size: 8px;
     }
-    .gtyhd{
+
+    .gtyhd {
         font-size: 8px;
     }
-    .pricing h2{
+
+    .pricing h2 {
         font-size: 22px;
     }
-    .pricing p{
+
+    .pricing p {
         font-size: 11px;
         margin-bottom: 0;
     }
-    .ocho h2{
+
+    .ocho h2 {
         font-size: 17px;
     }
-    .ocho p{
+
+    .ocho p {
         font-size: 11px;
     }
-    .fkfjo h2{
+
+    .fkfjo h2 {
         font-size: 20px;
     }
-    .fkfjo p{
+
+    .fkfjo p {
         font-size: 10px;
         margin-left: 17px;
     }
-    .colorr{
+
+    .colorr {
         width: 26%;
     }
-    .buttt{
+
+    .buttt {
         padding: 9px 23px;
     }
-    .ñploñ h2{
+
+    .ñploñ h2 {
         font-size: 25px;
     }
-    .ñploñ p{
+
+    .ñploñ p {
         font-size: 11px;
     }
+
     .opil {
         width: 26%;
         font-size: 7px;
