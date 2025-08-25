@@ -1157,6 +1157,21 @@ form textarea {
     .tex img {
         width: 42%;
     }
+    .buttt {
+        padding: 9px 23px;
+    }
+    .fkfjo h2 {
+        font-size: 20px;
+    }
+    .opil {
+        width: 26%;
+        font-size: 7px;
+    }
+
+    .fkfjo p {
+        font-size: 10px;
+        margin-left: 17px;
+    }
 
     .tex h2 {
         font-size: 12px;
@@ -1167,7 +1182,19 @@ form textarea {
         font-size: 10px;
         margin: 0 0 23px 18px;
     }
-
+    .pricing h2 {
+        font-size: 22px;
+    }
+    .pricing p {
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+    .ñploñ h2 {
+        font-size: 25px;
+    }
+     .ñploñ p {
+        font-size: 11px;
+    }
     .car {
         width: 75%;
         height: 45vh;
@@ -1202,11 +1229,20 @@ form textarea {
 
     .colr {
         height: 63px;
+        font-size: 8px;
 
     }
+    .ocho h2 {
+        font-size: 17px;
+    }
+    .ocho p {
+        font-size: 11px;
+    }
+
 
     .gtyhd {
         height: 63px;
+        font-size: 8px;
     }
 
     .hgjk {
@@ -1224,71 +1260,11 @@ form textarea {
     .titl p {
         font-size: 8px;
     }
-}
-
-@media (max-width: 480px) {
-    .car {
-        width: 75%;
-        height: 57vh;
-    }
-
     .tho p {
         font-size: 10px;
     }
-
-    .colr {
-        font-size: 8px;
-    }
-
-    .gtyhd {
-        font-size: 8px;
-    }
-
-    .pricing h2 {
-        font-size: 22px;
-    }
-
-    .pricing p {
-        font-size: 11px;
-        margin-bottom: 0;
-    }
-
-    .ocho h2 {
-        font-size: 17px;
-    }
-
-    .ocho p {
-        font-size: 11px;
-    }
-
-    .fkfjo h2 {
-        font-size: 20px;
-    }
-
-    .fkfjo p {
-        font-size: 10px;
-        margin-left: 17px;
-    }
-
     .colorr {
         width: 26%;
     }
-
-    .buttt {
-        padding: 9px 23px;
-    }
-
-    .ñploñ h2 {
-        font-size: 25px;
-    }
-
-    .ñploñ p {
-        font-size: 11px;
-    }
-
-    .opil {
-        width: 26%;
-        font-size: 7px;
-    }
-
 }
+
