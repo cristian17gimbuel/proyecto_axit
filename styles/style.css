@@ -663,7 +663,7 @@ form textarea {
 
     .car {
         width: 47%;
-        height: 92vh;
+        height: 52vh;
     }
 
     .segundo p {
@@ -797,7 +797,7 @@ form textarea {
 
     .car {
         width: 53%;
-        height: 84vh;
+        height: 50vh;
         margin-top: 18px;
     }
 
@@ -950,7 +950,7 @@ form textarea {
 
     .car {
         width: 64%;
-        height: 95vh;
+        height: 56vh;
     }
 
     .car input {
@@ -1157,12 +1157,15 @@ form textarea {
     .tex img {
         width: 42%;
     }
+
     .buttt {
         padding: 9px 23px;
     }
+
     .fkfjo h2 {
         font-size: 20px;
     }
+
     .opil {
         width: 26%;
         font-size: 7px;
@@ -1182,19 +1185,24 @@ form textarea {
         font-size: 10px;
         margin: 0 0 23px 18px;
     }
+
     .pricing h2 {
         font-size: 22px;
     }
+
     .pricing p {
         font-size: 11px;
         margin-bottom: 0;
     }
+
     .ñploñ h2 {
         font-size: 25px;
     }
-     .ñploñ p {
+
+    .ñploñ p {
         font-size: 11px;
     }
+
     .car {
         width: 75%;
         height: 45vh;
@@ -1232,9 +1240,11 @@ form textarea {
         font-size: 8px;
 
     }
+
     .ocho h2 {
         font-size: 17px;
     }
+
     .ocho p {
         font-size: 11px;
     }
@@ -1260,11 +1270,12 @@ form textarea {
     .titl p {
         font-size: 8px;
     }
+
     .tho p {
         font-size: 10px;
     }
+
     .colorr {
         width: 26%;
     }
 }
-
